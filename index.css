@@ -27,11 +27,22 @@
 
 h1{
     padding-top: 14px;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
-    letter-spacing: 10px;
+    letter-spacing: 9px;
     color: rgb(53, 53, 53);
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+h2{
+    padding-top: 8px;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    width: 400px;
+    color: rgb(53, 53, 53);
+    padding-bottom: 20px;
+    text-align: center;
 }
 
 .imagens_mulheres{
@@ -40,16 +51,26 @@ h1{
     justify-content: center; 
     align-items:center; 
     gap: 10px;
+    padding-bottom: 30px;
 }
 
 .imagem_mulher_1{
-    width: 400px;
+    width: 380px;
+    border-radius: 7px
 }
 
 .imagem_mulher_2{
-    width: 400px;
+    width: 380px;
+    border-radius: 7px
 }
 
 .imagem_mulher_3{
-    width: 400px;
+    width: 380px;
+    border-radius: 7px
+}
+
+.linha{
+    width: 410px;
+    height: 1px;
+    background-color: rgb(53, 53, 53);
 }
