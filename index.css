@@ -74,3 +74,27 @@ h2{
     height: 1px;
     background-color: rgb(53, 53, 53);
 }
+
+.titulo_pagina{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    width: 400px;
+    color: rgb(53, 53, 53);
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.texto_apresentacao{
+    text-align: center;
+    width: 400px;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px
+}
+
+.mulheres_links{
+    
+}
