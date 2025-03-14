@@ -27,7 +27,7 @@
 
 h1{
     padding-top: 14px;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 400;
     letter-spacing: 9px;
     color: rgb(53, 53, 53);
@@ -39,7 +39,7 @@ h2{
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 2px;
-    width: 400px;
+    width: 370px;
     color: rgb(53, 53, 53);
     padding-bottom: 20px;
     text-align: center;
@@ -55,22 +55,22 @@ h2{
 }
 
 .imagem_mulher_1{
-    width: 380px;
+    width: 360px;
     border-radius: 7px
 }
 
 .imagem_mulher_2{
-    width: 380px;
+    width: 360px;
     border-radius: 7px
 }
 
 .imagem_mulher_3{
-    width: 380px;
+    width: 360px;
     border-radius: 7px
 }
 
 .linha{
-    width: 410px;
+    width: 360px;
     height: 1px;
     background-color: rgb(53, 53, 53);
 }
@@ -80,7 +80,7 @@ h2{
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 2px;
-    width: 400px;
+    width: 370px;
     color: rgb(53, 53, 53);
     padding-bottom: 20px;
     text-align: center;
@@ -88,7 +88,7 @@ h2{
 
 .texto_apresentacao{
     text-align: center;
-    width: 400px;
+    width: 360px;
     padding-top: 10px;
     font-size: 13px;
     font-weight: 400;
@@ -120,8 +120,6 @@ h2{
     width: 110px;
 }
  
-#miniatuta_mulher_2{
-}
 
 .mulher_img_pequena{
     width: 85px;
@@ -133,9 +131,9 @@ h2{
     flex-direction: row; 
     justify-content: center; 
     align-items:center;
-    width: 290px;
+    width: 260px;
     height: 110px;
-    font-size: 28px;
+    font-size: 27px;
     font-weight: 300;
     border-radius: 10px;
     color: black;
