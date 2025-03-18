@@ -139,3 +139,12 @@ h2{
     color: black;
     background-color: rgb(235, 235, 235);
 }
+
+.divaneide{
+    padding-top: 14px;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 9px;
+    color: rgb(53, 53, 53);
+    padding-bottom: 5px; 
+}
